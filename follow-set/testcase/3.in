@@ -1,0 +1,8 @@
+S AaAb|BbBa
+A ;
+B ;
+END_OF_GRAMMAR
+S ab
+A ;
+B ;
+END_OF_FIRST_SET

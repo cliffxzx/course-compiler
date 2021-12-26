@@ -1,0 +1,6 @@
+ID Str
+DOT .
+ID length
+LBR (
+STRLIT "123"
+RBR )

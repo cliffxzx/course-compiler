@@ -1,0 +1,39 @@
+<p>
+	<input checked="checked" type="checkbox" /> Title Checked
+</p>
+<h4>My Dog</h4>
+<img alt="Doge 1" src="https://www.pngall.com/wp-content/uploads/7/Doge-PNG-Picture.png">
+<img alt="Doge       2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkESIZBJoCjj1QtT-fxNe1H__V1-zMFE1mFA&usqp=CAU">
+<hr />
+<hr />
+<h4>level 4</h4>
+<ul>
+	<li>Buy a 3D Printer</li>
+	<li>Print a 3D Printer</li>
+	<li>Return the 3D Printer</li>
+	<li>STONKS</li>
+</ul>
+<hr />
+<blockquote>
+One day, she picked up a <strong>strange book</strong> and then started
+to gain the power of controlling <strong>tentacles</strong>. To her,
+<strong>tentacles</strong> are just a part in her ordinary life; it has
+<strong>never been a big deal for her</strong>. However, her girly mind does
+want to get them dressed up and stay pretty.
+</blockquote>
+<hr />
+<a href="https://www.youtube.com/watch?v=Gc2u6AFImn8">
+	<span>Never gonna give you up</span>
+</a>
+<a href="https://popcat.click/">
+	<span>Pop Cat</span>
+</a>
+<p>
+	<input type="checkbox" /> Not End  of File
+</p>
+<p>
+	<input type="checkbox" /> Not End  of      File
+</p>
+<p>
+	<input checked="checked" type="checkbox" /> End  of      File
+</p>

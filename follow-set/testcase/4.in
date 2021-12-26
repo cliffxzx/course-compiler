@@ -1,0 +1,12 @@
+S AC
+C c|;
+A aBCd|BQ
+B bB|;
+Q q|;
+END_OF_GRAMMAR
+S ;abcq
+C ;c
+A ;abq
+B ;b
+Q ;q
+END_OF_FIRST_SET

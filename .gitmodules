@@ -1,0 +1,3 @@
+[submodule "mini-lisp"]
+	path = mini-lisp
+	url = https://github.com/cliffxzx/mini-lisp
